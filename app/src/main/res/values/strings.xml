@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Browser</string>
+    <string name="Forward_Button">Forward Button</string>
+    <string name="Back_Button">Back Button</string>
+    <string name="Refresh_Button">Refresh Button</string>
+    <string name="Clear_Button">Clear Button</string>
+    <string name="clear">Clear</string>
+</resources>
